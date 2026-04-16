@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real‑time rally list** – Updated automatically when the scout file changes.
 - **Powerful filters** – By set, home/away rotation, attack phase, evaluation code, favorites, and wildcard search (`_`).
@@ -19,7 +19,7 @@
 
 ---
 
-## 📥 Download
+## Download
 
 Go to the **[Releases](../../releases)** page and download the latest `DVLiveVideo.exe`.
 
@@ -27,7 +27,7 @@ Go to the **[Releases](../../releases)** page and download the latest `DVLiveVid
 
 ---
 
-## 🖥️ Requirements
+## Requirements
 
 - **Windows 10 / 11** (64‑bit)
 - **VLC Media Player** installed ([download here](https://www.videolan.org/vlc/))
@@ -35,7 +35,7 @@ Go to the **[Releases](../../releases)** page and download the latest `DVLiveVid
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Extract** the release archive to a folder (e.g., `C:\DVLiveVideo`).
 2. **Install VLC** if you haven’t already.
@@ -52,7 +52,7 @@ Go to the **[Releases](../../releases)** page and download the latest `DVLiveVid
 
 ---
 
-## 🧪 Testing without a real match
+## Testing without a real match
 
 You can test the application using:
 - Any sample `.mp4` file and a `.dvw` file (even if not perfectly synchronized).
@@ -60,7 +60,7 @@ You can test the application using:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Python 3.14** – Core logic
 - **PyQt5** – Desktop interface
@@ -72,7 +72,7 @@ You can test the application using:
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 The web interface includes:
 - **User Manual** – `http://localhost:5000/manual`
@@ -81,18 +81,18 @@ The web interface includes:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This project is distributed as a compiled executable. If you are a developer and wish to contribute to the source code, please contact the author.
 
 ---
 
-## 📧 Contact
+## Contact
 
-Developed by **Felipe Lima (Ori)** – [Your contact info or GitHub profile]
+Developed by **Felipe Lima (Ori)** – @felipeaplima
 
 ---
 
-## 📜 License
+## License
 
 All rights reserved. This software is provided “as is” without warranty. Redistribution is not permitted without explicit permission from the author.
