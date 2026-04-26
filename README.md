@@ -2,7 +2,7 @@
 
 **DV Live Video** is a professional desktop application for real‑time volleyball rally analysis. It combines live video capture (partial MP4 or HTTP stream) with DataVolley scout files (`.dvw`) to provide an interactive web interface with powerful filters, statistics, and HLS streaming to any device on your local network.
 
-- **Other Languages**: [Português Brasileiro]((readme.pt-br.md))
+- **Other Languages**: [Português Brasileiro]((readme.ptbr.md))
 ---
 
 ## Features
