@@ -4,7 +4,7 @@
 
 **Documents**: 
 
-- README [Português Brasileiro](readme.ptbr.md)
+- README [Português Brasileiro (PT-BR)](readme.ptbr.md)
 
 **Manual**: 
 
