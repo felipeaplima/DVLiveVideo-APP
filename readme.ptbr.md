@@ -4,6 +4,18 @@
 
 ---
 
+
+## Screenshots
+
+### Desktop Interface
+![Desktop App](./docs/images/screenshot1.png)
+
+### Web Interface (Mobile)
+![Web Player](./docs/images/screenshot2.jpg)
+
+
+---
+
 ## Funcionalidades
 
 - **Lista de rallies em tempo real** – Atualizada automaticamente quando o arquivo de scout é modificado.  
