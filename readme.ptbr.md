@@ -40,26 +40,14 @@ Acesse a página **[Releases](../../releases)** e baixe o arquivo mais recente `
 1. **Extraia** o arquivo de release para uma pasta (ex.: `C:\DVLiveVideo`).  
 2. **Instale o VLC** caso ainda não tenha.  
 3. **Execute** `DVLiveVideo.exe`.  
-4. Escolha o modo de execução:  
-   - *Ambos (Desktop + Servidor Web)* – Recomendado para a maioria dos usuários.  
-   - *Somente Desktop* – Sem servidor web, apenas a janela local em PyQt5.  
-   - *Somente Servidor Web* – Sem interface desktop, apenas a interface web.  
-5. Selecione a fonte de vídeo:  
-   - *Arquivo MP4 local* – Um MP4 parcial sendo gravado pelo DataVolley.  
-   - *Stream HTTP* – Um stream HLS existente (ex.: VolleyStation Streamer).  
-   - *`.dvw` remoto* – Arquivo de scout lido via HTTP (ex.: `http://IP:7474/live.dvw`).  
+4. Escolha o modo de execução.
+5. Selecione a fonte de vídeo.  
 6. Comece a análise! A interface web estará disponível em `http://localhost:5000` (ou no IP do seu computador).  
 
----
-
-## Testando sem um jogo real
-
-Você pode testar o aplicativo usando:  
-- Qualquer arquivo `.mp4` de exemplo e um arquivo `.dvw` (mesmo que não estejam perfeitamente sincronizados).  
-- Um stream HLS público de teste, por exemplo: `https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8`.  
+> **Testando sem jogo ao vivo?** Use qualquer `.mp4` + `.dvw`.
 
 ---
-
+ 
 ## Desenvolvido com
 
 - **Python 3.14** – Lógica principal  
@@ -89,7 +77,7 @@ Este projeto é distribuído como um executável compilado. Se você é desenvol
 
 ## Contato
 
-Desenvolvido por **Felipe Lima (Ori)** – [Suas informações de contato ou perfil no GitHub]
+Desenvolvido por **Felipe Lima (Ori)** – [@felipeaplima]
 
 ---
 
