@@ -2,7 +2,11 @@
 
 **DV Live Video** is a professional desktop application for real‑time volleyball rally analysis. It combines live video capture (partial MP4 or HTTP stream) with DataVolley scout files (`.dvw`) to provide an interactive web interface with powerful filters, statistics, and HLS streaming to any device on your local network.
 
-- **Other Languages**: [Português Brasileiro](readme.ptbr.md)
+- **Other Languages**: README [Português Brasileiro](readme.ptbr.md)
+
+- **Manual**: EN [English](manual.md)
+- **Manual**: PT-BR [Português Brasileiro](manual.ptbr.md)
+
 ---
 
 ## Features
@@ -41,27 +45,15 @@ Go to the **[Releases](../../releases)** page and download the latest `DVLiveVid
 1. **Extract** the release archive to a folder (e.g., `C:\DVLiveVideo`).
 2. **Install VLC** if you haven’t already.
 3. **Run** `DVLiveVideo.exe`.
-4. Choose your execution mode:
-   - *Both (Desktop + Web Server)* – Recommended for most users.
-   - *Desktop only* – No web server, only the local PyQt5 window.
-   - *Web server only* – No desktop window, only the web interface.
-5. Select your video source:
-   - *Local MP4 file* – A partial MP4 being recorded by DataVolley.
-   - *HTTP stream* – An existing HLS stream (e.g., from VolleyStation Streamer).
-   - *Remote .dvw* – Scout file read via HTTP (e.g., `http://IP:7474/live.dvw`).
+4. Choose your execution mode.
+5. Select your video source.
 6. Start scouting! The web interface will be available at `http://localhost:5000` (or your computer’s IP address).
 
----
-
-## Testing without a real match
-
-You can test the application using:
-- Any sample `.mp4` file and a `.dvw` file (even if not perfectly synchronized).
-- A public HLS test stream, e.g., `https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8`.
+> **Testing without a match?** Use any `.mp4` + `.dvw`.
 
 ---
 
-## Built With
+##  Built With
 
 - **Python 3.14** – Core logic
 - **PyQt5** – Desktop interface
@@ -90,7 +82,7 @@ This project is distributed as a compiled executable. If you are a developer and
 
 ## Contact
 
-Developed by **Felipe Lima (Ori)** – @felipeaplima
+Developed by **Felipe Lima (Ori)** – [@felipeaplima]
 
 ---
 
