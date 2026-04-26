@@ -9,12 +9,8 @@
 - **Lista de rallies em tempo real** – Atualizada automaticamente quando o arquivo de scout é modificado.  
 - **Filtros avançados** – Por set, rotação casa/fora, fase de ataque, código de avaliação, favoritos e busca com curinga (`_`).  
 - **Estatísticas interativas** – Tabelas detalhadas com contagens por fundamento (Saque, Recepção, Ataque, Bloqueio, Defesa, Levantamento) e códigos de avaliação (`# + ! - / =`). Os nomes dos jogadores são exibidos junto aos números.  
-- **Streaming HLS ao vivo** – O vídeo é convertido para HLS e disponibilizado para qualquer navegador na rede. Suporta voltar no tempo (DVR) ao usar uma fonte compatível.  
 - **Desktop + Web** – Escolha rodar apenas a interface desktop, apenas o servidor web ou ambos.  
-- **Arquivo de scout remoto** – Leitura de `.dvw` diretamente via URL HTTP (ex.: servidor interno do DataVolley na porta 7474).  
-- **Configuração automática de firewall** – Na primeira execução, o app pode solicitar a abertura da porta 5000 no Firewall do Windows.  
 - **Atalhos de teclado** – Espaço (play/pause), setas (±2s), F (favorito), Enter (ir para o rally selecionado), entre outros.  
-- **Tema** – Modo claro/escuro na interface web (persistente).  
 - **Últimos 6 saques** – Botões dinâmicos exibindo os saques mais recentes com placar e código curto.  
 
 ---

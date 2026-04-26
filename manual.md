@@ -30,7 +30,7 @@ When receiving the `.rar`, unzip all files in the same folder at your disk:
 
 ## Starting the app and choosing a video source
 
-> **📌 Attention:** In the first open of this application, it can take up to 1 minute to load it!!!
+> **📌 Attention:** In the first open of this application, it can take more than 1 minute to load it!!!
 
 Run the `DVLiveVideo.exe` on the unziped folder. You can later set this `.exe` as a shortcut in your taskbar and start menu.
 

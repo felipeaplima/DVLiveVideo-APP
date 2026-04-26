@@ -30,7 +30,7 @@ Ao receber o `.rar`, descompacte todos os arquivos na mesma pasta em seu disco:
 
 ## Iniciando o aplicativo e escolhendo a fonte de vídeo
 
-> **📌 Atenção:** Na primeira abertura deste aplicativo, pode levar até 1 minuto para carregá-lo!!!
+> **📌 Atenção:** Na primeira abertura deste aplicativo, pode mais de 1 minuto para carregá-lo!!!
 
 Execute o `DVLiveVideo.exe` na pasta descompactada. Depois você pode definir este `.exe` como atalho na barra de tarefas e no menu iniciar.
 
