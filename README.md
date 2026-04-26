@@ -2,10 +2,14 @@
 
 **DV Live Video** is a professional desktop application for real‑time volleyball rally analysis. It combines live video capture (partial MP4 or HTTP stream) with DataVolley scout files (`.dvw`) to provide an interactive web interface with powerful filters, statistics, and HLS streaming to any device on your local network.
 
-- **Other Languages**: README [Português Brasileiro](readme.ptbr.md)
+**Documents**: 
 
-- **Manual**: EN [English](manual.md)
-- **Manual**: PT-BR [Português Brasileiro](manual.ptbr.md)
+- README [Português Brasileiro](readme.ptbr.md)
+
+**Manual**: 
+
+- [English (US)](manual.md)
+- [Português Brasileiro (PT-BR)](manual.ptbr.md)
 
 ---
 
@@ -14,13 +18,9 @@
 - **Real‑time rally list** – Updated automatically when the scout file changes.
 - **Powerful filters** – By set, home/away rotation, attack phase, evaluation code, favorites, and wildcard search (`_`).
 - **Interactive statistics** – Detailed tables with counts by skill (Serve, Reception, Attack, Block, Dig, Set) and evaluation codes (`# + ! - / =`). Player names are shown alongside numbers.
-- **Live HLS streaming** – The video is converted to HLS and served to any browser on the network. Supports seeking back (DVR) when using a compatible source.
 - **Desktop + Web** – Choose to run only the desktop interface, only the web server, or both.
-- **Remote scout file** – Read `.dvw` directly from an HTTP URL (e.g., DataVolley’s built‑in server on port 7474).
-- **Firewall auto‑configuration** – On first run, the app can ask to open port 5000 in Windows Firewall.
 - **Keyboard shortcuts** – Space (play/pause), arrows (±2s), F (favorite), Enter (jump to selected rally), and more.
-- **Theme** – Light/dark mode for the web interface (persistent).
-- **Last 6 serves** – Dynamic buttons showing the most recent serves with score and short code.
+- **Last serves shortcut** – Dynamic buttons showing the most recent serves with score and short code.
 
 ---
 
