@@ -37,9 +37,9 @@
 
 ## Download
 
-Go to the **[Releases](../../releases)** page and download the latest `DVLiveVideo.exe`.
+Go to the **[Releases](../../releases)** page and download the latest `DVLiveVideo.rar`. Extract everything to the same directory and run the `.exe`.
 
-> **Note:** The release package also includes `ffmpeg.exe` and the required `templates` folder. Extract everything to the same directory.
+> **Note:** The release package also includes `ffmpeg.exe` and the required folders and files. First start can take few minutes to open.
 
 ---
 
