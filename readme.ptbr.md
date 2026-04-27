@@ -4,6 +4,13 @@
 
 ---
 
+**Manual**: 
+
+- [English (US)](manual.md)
+- [Português Brasileiro (PT-BR)](manual.ptbr.md)
+
+
+---
 
 ## Screenshots
 
@@ -25,13 +32,13 @@
 - **Atalhos de teclado** – Espaço (play/pause), setas (±2s), F (favorito), Enter (ir para o rally selecionado), entre outros.  
 - **Últimos 6 saques** – Botões dinâmicos exibindo os saques mais recentes com placar e código curto.  
 
----
+--
 
 ## Download
 
-Acesse a página **[Releases](../../releases)** e baixe o arquivo mais recente `DVLiveVideo.exe`.
+Acesse a página **[Releases](../../releases)** e baixe o arquivo mais recente `DVLiveVideo.rar`. Extraia tudo para o mesmo diretório e execute o `.exe`.
 
-> **Nota:** O pacote de release também inclui o `ffmpeg.exe` e a pasta `templates` necessária. Extraia tudo para o mesmo diretório.
+> **Nota:** O pacote de release também inclui o `ffmpeg.exe` e outras pastas e arquivos necessários para o funcionamento. A primeira execução pode levar alguns minutos.
 
 ---
 
