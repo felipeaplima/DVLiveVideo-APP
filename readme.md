@@ -27,8 +27,8 @@
 ## Features
 
 - **Real‑time rally list** – Updated automatically when the scout file changes.
-- **Powerful filters** – By set, home/away rotation, attack phase, evaluation code, favorites, and wildcard search (`_`).
-- **Interactive statistics** – Detailed tables with counts by skill (Serve, Reception, Attack, Block, Dig, Set) and evaluation codes (`# + ! - / =`). Player names are shown alongside numbers.
+- **Powerful filters** – By set, home/away rotation, favorites, and wildcard search (`_`).
+- **Interactive statistics** – Detailed tables with counts by skill (Serve, Reception, Attack, Block, Dig, Set) and evaluation codes (`# + ! - / =`). 
 - **Desktop + Web** – Choose to run only the desktop interface, only the web server, or both.
 - **Keyboard shortcuts** – Space (play/pause), arrows (±2s), F (favorite), Enter (jump to selected rally), and more.
 - **Last serves shortcut** – Dynamic buttons showing the most recent serves with score and short code.

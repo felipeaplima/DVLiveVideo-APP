@@ -19,8 +19,8 @@
 ## Funcionalidades
 
 - **Lista de rallies em tempo real** – Atualizada automaticamente quando o arquivo de scout é modificado.  
-- **Filtros avançados** – Por set, rotação casa/fora, fase de ataque, código de avaliação, favoritos e busca com curinga (`_`).  
-- **Estatísticas interativas** – Tabelas detalhadas com contagens por fundamento (Saque, Recepção, Ataque, Bloqueio, Defesa, Levantamento) e códigos de avaliação (`# + ! - / =`). Os nomes dos jogadores são exibidos junto aos números.  
+- **Filtros avançados** – Por set, rotação casa/fora, favoritos e busca com curinga (`_`).  
+- **Estatísticas interativas** – Tabelas detalhadas com contagens por fundamento (Saque, Recepção, Ataque, Bloqueio, Defesa, Levantamento) e códigos de avaliação (`# + ! - / =`).
 - **Desktop + Web** – Escolha rodar apenas a interface desktop, apenas o servidor web ou ambos.  
 - **Atalhos de teclado** – Espaço (play/pause), setas (±2s), F (favorito), Enter (ir para o rally selecionado), entre outros.  
 - **Últimos 6 saques** – Botões dinâmicos exibindo os saques mais recentes com placar e código curto.  

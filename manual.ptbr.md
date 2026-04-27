@@ -2,11 +2,11 @@
 
 ## O que é este aplicativo?
 
-Este aplicativo foi criado para ajudar usuários do DataVolley 4 a fazer análise de vídeo em tempo real durante uma partida. No aplicativo oficial do DV4, você tem acesso apenas aos últimos 5 ralis. Com esta ferramenta, seu arquivo de scout (`.dvw`) e o arquivo de captura de vídeo (`.mp4`) permitem buscar qualquer rali, aplicar filtros poderosos e compartilhar a análise com todos na sua rede.
+Este aplicativo foi criado para ajudar usuários do DataVolley 4 a fazer análise de vídeo em tempo real durante as partida. No aplicativo oficial do DV4 você tem acesso apenas aos últimos 5 rallies. Com esta ferramenta, seu arquivo de scout (`.dvw`) e o arquivo de captura de vídeo (`.mp4`) permitem buscar qualquer rali, aplicar filtros e compartilhar a análise com todos na sua rede.
 
 ## Como funciona
 
-O aplicativo monitora continuamente o arquivo de scout (atualizado durante a partida) e o associa ao vídeo capturado ou a uma URL de captura de terceiros. Quando usado com a captura (`.mp4`), o aplicativo gera uma nova transmissão HLS ao vivo (HTTP Live Streaming) que pode ser assistida em qualquer navegador, permitindo retroceder (DVR), para que você possa reproduzir qualquer rali desde o início da partida.
+O aplicativo monitora continuamente o arquivo de scout (atualizado durante a partida) e o associa ao vídeo capturado ou a uma URL de captura de terceiros. Quando usado com a captura (`.mp4`), o aplicativo gera uma nova transmissão HLS ao vivo (HTTP Live Streaming) que pode ser assistida em qualquer navegador na rede, permitindo retroceder (DVR), para que você possa reproduzir qualquer rally desde o início da partida.
 
 > **📌 Dica:** Para acessar o arquivo `.dvw`, é recomendado usar o **backup automático em uma unidade externa** disponível no DV4 (*Opções de Scout → Segurança do Scout*). Se seu notebook tiver um leitor de cartão SD, use-o como disco de backup para melhor desempenho.
 
@@ -23,14 +23,14 @@ O aplicativo monitora continuamente o arquivo de scout (atualizado durante a par
 Ao receber o `.rar`, descompacte todos os arquivos na mesma pasta em seu disco:
 
 - **Certifique-se de que o VLC está instalado no seu notebook;**
-- **Você pode testar o aplicativo com dados de alguma partida passada (`.dvw` e `.mp4`);**
+- **Você pode testar o aplicativo com dados de alguma partida já finalizada (`.dvw` e `.mp4`);**
 - **Você precisará de espaço livre para arquivos de vídeo temporários; recomenda-se ter até 10GB, pois seu arquivo `.mp4` principal será duplicado duas vezes para torná-lo acessível no cliente web e no aplicativo desktop!!**
 
 ---
 
 ## Iniciando o aplicativo e escolhendo a fonte de vídeo
 
-> **📌 Atenção:** Na primeira abertura deste aplicativo, pode mais de 1 minuto para carregá-lo!!!
+> **📌 Atenção:** Na primeira abertura deste aplicativo, pode levar mais de 1 minuto para carregá-lo!!!
 
 Execute o `DVLiveVideo.exe` na pasta descompactada. Depois você pode definir este `.exe` como atalho na barra de tarefas e no menu iniciar.
 
@@ -91,7 +91,7 @@ Acesse o player web em `http://[ip-do-servidor]:5000`. Recursos incluem:
 Use o sublinhado `_` como curinga para exatamente um caractere. Exemplos:
 
 - `a__S_#` → encontra saques (`S` como 4º caractere) com avaliação `#`.
-- `*__SQ#` → encontra levantamentos rápidos (`SQ`) com `#`.
+- `*__SQ#` → encontra saques viagens (`SQ`) com `#`.
 - `a05_` → encontra códigos começando com `a05` e qualquer 4º caractere.
 
 ## Solução de problemas

@@ -30,7 +30,7 @@ When receiving the `.rar`, unzip all files in the same folder at your disk:
 
 ## Starting the app and choosing a video source
 
-> **📌 Attention:** In the first open of this application, it can take more than 1 minute to load it!!!
+> **📌 Attention:** In the first open of this application, it can take more than 1 minute to load!!!
 
 Run the `DVLiveVideo.exe` on the unziped folder. You can later set this `.exe` as a shortcut in your taskbar and start menu.
 
@@ -91,7 +91,7 @@ Access the web player at `http://[server-ip]:5000`. Features include:
 Use the underscore `_` as a wildcard for exactly one character. Examples:
 
 - `a__S_#` → finds serves (`S` as 4th character) with a `#` evaluation.
-- `*__SQ#` → finds quick sets (`SQ`) with a `#`.
+- `*__SQ#` → finds quick serves (`SQ`) with a `#` evaluation.
 - `a05_` → finds codes starting with `a05` and any 4th character.
 
 ## Troubleshooting
